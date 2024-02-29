@@ -5,4 +5,4 @@ curl https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe -o s
 curl -LJO https://github.com/pelaajahacks/Hoyry/raw/main/7z.exe
 curl -LJO https://github.com/pelaajahacks/Hoyry/raw/main/7z.dll
 7z.exe x s.exe
-Steam.exe
+start Steam.exe
